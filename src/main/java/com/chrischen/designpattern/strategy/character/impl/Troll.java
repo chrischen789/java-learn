@@ -5,6 +5,9 @@ import com.chrischen.designpattern.strategy.weapon.BowAndArrowBehavior;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+/**
+ *
+ */
 public class Troll extends Character {
 
     private final static Logger log = LoggerFactory.getLogger(Troll.class);
