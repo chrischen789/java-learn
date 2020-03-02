@@ -11,7 +11,7 @@ public class StrategyTest {
     @Test
     public void initCharacter() {
         Character king = new King();
-        king.startGame();
+//        king.startGame();
         king.fight();
         king.setWeapon(new SwordBehavior());
         king.fight();

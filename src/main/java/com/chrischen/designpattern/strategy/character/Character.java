@@ -17,7 +17,6 @@ public abstract class Character {
     }
 
     public void setWeapon(WeaponBehavior weapon) {
-
         this.weapon = weapon;
         log.info("change now weapon!");
     }

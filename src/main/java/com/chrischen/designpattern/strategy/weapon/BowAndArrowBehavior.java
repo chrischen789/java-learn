@@ -9,6 +9,6 @@ public class BowAndArrowBehavior implements WeaponBehavior {
 
     @Override
     public void useWeapon() {
-        log.info("noe use bow and arrow to hit enemy");
+        log.info("now use bow and arrow to hit enemy");
     }
 }
