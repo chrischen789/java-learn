@@ -35,3 +35,9 @@ upload/
 .vscode
 .vscode/
 rebel.xml
+
+spring.srctrlbm
+spring.srctrldb
+spring.srctrlprj
+
+/sourcetrail_dependencies/
